@@ -1,0 +1,7 @@
+表单格式.txt
+
+1.表单中要提交的输入框都需要有form-control样式类
+2.输入框的上层需要有error-tips样式类
+3.必填字段需要有data-required属性
+4.提交按钮必须带有sm-btn样式类
+5.提交按钮必须带有data-formid属性

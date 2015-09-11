@@ -1,0 +1,6 @@
+array(
+	'status'	=>	boolean,
+	'code'		=>	int,
+	'msg'		=>	string,
+	'data'		=>	array()/string
+);
